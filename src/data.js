@@ -1,7 +1,7 @@
 export const data = [
   {
-      id: 1,
-      body: `### This just in!
+    id: 1,
+    body: `### This just in!
 
 Markdown is an *awesome* way to write **very basic HTML** by typing manually
 
